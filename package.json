@@ -1,0 +1,15 @@
+{
+  "name": "react_patika_exercise1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Patika repead JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Omar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
